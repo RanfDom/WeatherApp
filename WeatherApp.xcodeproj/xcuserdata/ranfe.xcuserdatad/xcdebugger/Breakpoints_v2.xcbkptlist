@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5A0B9747-F6FA-4288-BEA0-DDFE94666A9C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "628870C2-B394-4C23-8E37-79E9164CC2EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "searchCityWeatherBy(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "searchWeatherBy(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - bdcc0f5ac049a42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - c84cdd6d8b5cad3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) await resume partial function for closure #1 @Sendable () async throws -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - e670a6d10a2fd1a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - e670a6d10a2fd644"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - b1137b2d70c915a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - b1137b2d70c91246"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - 24e839282c26b17b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - bb5a143b41dd6027"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) await resume partial function for closure #1 @Sendable () async -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - 6955e7c888c1ca9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - 6955e7c888c1cd7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - bdb284e9f4eb0e9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for closure #1 @Sendable () async -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - bdb284e9f4eb097f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for closure #1 @Sendable () async -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7AE2F988-D9B1-4B80-BBFA-F219577B2F21 - 6955e7c888c1cd7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6892DF64-8E95-4E57-A500-834B1FDB25B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "searchWeatherBy(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6892DF64-8E95-4E57-A500-834B1FDB25B0 - e670a6d10a2fd663"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "6892DF64-8E95-4E57-A500-834B1FDB25B0 - 6955e7c888c1cd5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "6892DF64-8E95-4E57-A500-834B1FDB25B0 - 6955e7c888c1cd5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in WeatherApp.SearchCityWeatherPresenter.searchWeatherBy(Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ranfe/Documents/Challenges/WeatherApp/WeatherApp/WeatherApp/SearchCityWeather/SearchCityWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
